@@ -20,7 +20,5 @@ IDLE, Komodo, LiClipse, PyCharm, расширение Python для Visual Studi
 3. стоимость тарифа за километр каждой машины такси
 
 ## скриншоты тестов
-![image](https://github.com/IamMaxN/LabWork8/assets/146973595/695b4f97-577f-4acc-abd4-8a55a2c4bef2)
-![image](https://github.com/IamMaxN/LabWork8/assets/146973595/90472b50-ced9-4cef-8f32-6c0714199d1e)
-![image](https://github.com/IamMaxN/LabWork8/assets/146973595/c55a41b5-76a5-4d12-8e85-2988fc1feb62)
-![image](https://github.com/IamMaxN/LabWork8/assets/146973595/5bf97758-cfa8-4f14-bc35-5f876947002e)
+![image](https://github.com/IamMaxN/LabWork8/assets/146973595/445dc33b-fc10-4690-b1c3-be5b3921833a)
+
